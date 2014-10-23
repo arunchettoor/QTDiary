@@ -17,3 +17,5 @@ Steps to view/edit new calendar date diary:
 2) Tick the "EDIT" checkbox.
 3) Write the text box for the date.
 4) Click on "SAVE" Button.
+
+Entire code for the QT project is enlisted here. You can compile ir for the system with QTProject and run it on the system. The binary file compiled from Ubuntu 12.04 LTS is added on the "bin" directory.
